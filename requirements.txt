@@ -1,4 +1,2 @@
-pysql
-mysql
 pyTelegramBotAPI
 mysql-client
